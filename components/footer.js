@@ -89,6 +89,7 @@ const Footer = ({ dark = false, children, ...props }) => (
           <Link href="https://hackclub.com/philosophy/" children="Philosophy" />
           <Link href="https://hackclub.com/brand/" children="Branding" />
           <Link href="https://hackclub.com/press/" children="Press Inquiries" />
+          <Link href="http://jobs.hackclub.com/" children="Jobs" />
         </Box>
         <Box>
           <Heading as="h2" variant="subheadline" mb={3}>
